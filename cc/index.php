@@ -31,7 +31,7 @@
 		<button class="sideBTN" style="background-image:url('resources/btn_tip.png');">Task-in-Progress</button>
 		<button class="sideBTN" style="background-image:url('resources/btn_banking.png');">Accounting &amp; Banking</button> 
 		<button class="sideBTN" style="background-image:url('resources/btn_vendor.png');">Vendors</button>
-		<button class="sideBTN" style="background-image:url('resources/btn_hr.png');">Human Resources</button>
+		<button class="sideBTN" style="background-image:url('resources/btn_hr.png');">Human Resource</button>
 		<button class="sideBTN" style="background-image:url('resources/btn_banking.png');">Supplies &amp; Inventory</button> 
 	</div>
 </div>
